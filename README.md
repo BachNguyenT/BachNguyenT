@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full-Stack Development using MERN, Combinatorial Optimizations and Mixed Integer Linear Programming related to Operation Research, and Blockchain
 - Intermediate Experiences in Python, Beginner in ReactJS and Solidity
 - 📫 Reach me at:
--   LinkedIn: linkedin.com/in/bach-nguyen-029271177/
+-   LinkedIn: linkedin.com/in/bach-nguyen-t
 -   Email: bachesnguyen@gmail.com
 - 
 
