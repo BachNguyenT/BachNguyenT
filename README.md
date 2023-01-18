@@ -6,7 +6,6 @@
 - 📫 Reach me at:
 -   LinkedIn: linkedin.com/in/bach-nguyen-t
 -   Email: bachesnguyen@gmail.com
-- 
 
 <!---
 BachNguyenT/BachNguyenT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
