@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BachNguyenT, Vietnam, from Hochiminh City
+- 👋 Hi, I’m @BachNguyenT, Vietnam, from Waterloo, Ontario, Canada
 - 👀 I’m interested in Classical Music, Cubing, Photography, Problem Solving, Badminton, Horology, and Entrepreneurship
 - 🌱 I’m currently pursuing Bachelor of Computer Science / Bachelor of Business Administration at the University of Waterloo / Wilfrid Laurier University, Waterloo, Ontario, Canada
 - I’m looking to collaborate on Full-Stack Development using MERN, Combinatorial Optimizations and Mixed Integer Linear Programming related to Operation Research, and Blockchain
